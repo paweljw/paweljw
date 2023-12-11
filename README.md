@@ -7,4 +7,4 @@ I'm a software engineer, architect and engineering manager. [AMA](mailto:p@pawel
 * 💬 Blog and contact: https://paweljw.al
 * 🔭 Company: https://measure.studio
 * 🌱 Personal projects:
-  * [git.sr.ht/~paweljw](https://git.sr.ht/~paweljw)
+  * [My GitLab instance](https://tataru.steamshard.net/paweljw)
