@@ -6,4 +6,4 @@ I'm a software engineer, architect and engineering manager. [AMA](mailto:p@steam
 
 * 💬 Blog and contact: https://paweljw.al
 * 🔭 Company: https://measure.studio
-* 🌱 Personal projects: [my GitLab instance](https://tataru.steamshard.net/paweljw)
+* 🌱 Personal projects: [my GitLab instance](https://kita.gawa.moe/paweljw)
