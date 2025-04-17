@@ -1,5 +1,5 @@
 # Paweł J. Wal
 
-* 💬 Contact: https://paweljw.al
-* 📤 Blog:    https://cooling.coffee
-* 🔭 Company: https://measure.studio
+* 💬 Business card: https://whois.cooling.coffee
+* 📤 I wrote these: https://cooling.coffee
+* 🔭 Building this: https://measure.studio
